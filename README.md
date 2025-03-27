@@ -1,4 +1,4 @@
-GoodFirstJob Community Issue Tracker
+GoodFirstJob Public Issue Tracker
 ===============================
 
 Welcome to the public issue tracker for GoodFirstJob.
